@@ -3,6 +3,7 @@ const CACHE_NAME = 'V1_CACHE.AWP';
 
 var urlToCache = [
     './',
+    '/index.html',
     './css/style.css',
     './assets/logo.png',
     './assets/MW_Remastered.jpg',
